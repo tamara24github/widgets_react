@@ -10,7 +10,7 @@ const Dropdown = ({options, selected, onSelectChange, label})=>{
 
         const onBodyClick = (event) => {
             if(ref.current.contains(event.target)){
-                return;
+                return;     
             }
             setOpen(false)
         }
@@ -40,7 +40,6 @@ const Dropdown = ({options, selected, onSelectChange, label})=>{
         );
       })
   
-
     return(
         <div ref = {ref} className = "ui form">
         <div className = "field">
@@ -56,10 +55,7 @@ const Dropdown = ({options, selected, onSelectChange, label})=>{
       );
 }
 
-
 export default Dropdown;
-
-/* {<p style = {{color: selected.value}}>text color</p>} */
 
 
 
