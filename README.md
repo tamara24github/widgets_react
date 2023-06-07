@@ -1,3 +1,14 @@
+<h1><strong> Development Techniques: </strong></h1>
+<h3> Multiple Slices <br/>
+useState, useEffect, useRef; <br/>
+derived State;<br/>
+libraries: axios; <br/> </h3>
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
