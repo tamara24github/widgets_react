@@ -1,5 +1,5 @@
 <h1><strong> Development Techniques: </strong></h1>
-<h3> Navigation from scratch <br/>
+<h3> Navigation from scratch; <br/>
 useState, useEffect, useRef; <br/>
 libraries: axios; <br/> </h3>
 
