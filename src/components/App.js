@@ -24,7 +24,6 @@ const items = [
 
 const App = () =>{
     const [ selected, setSelected ] = useState(options[0]);
-    const [ showDropdown, setShowDropdown ] = useState(true);
 
     return(
         <div>
